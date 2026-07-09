@@ -1,0 +1,23 @@
+.vscode
+
+# Default GCC output
+a.out
+
+# macOS
+.DS_Store
+
+# VS Code temporary files
+tempCodeRunnerFile
+tempCodeRunnerFile.*
+
+# Keep Markdown files
+!*.md
+
+# Keep the .gitignore file itself
+!.gitignore
+
+# Keep C++ source files
+!*.cpp
+
+# Don't ignore directories
+!*/
