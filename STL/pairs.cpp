@@ -16,6 +16,9 @@ void createPait(){
 
     // pair can be initialized with curley braces
 
+    pair<int, int> p = {1,2};
+    cout<<p.first<<p.second;
+
 }
 
 int main(){
